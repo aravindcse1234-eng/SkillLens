@@ -1,0 +1,40 @@
+# Data
+data/
+*.parquet
+*.csv
+*.pkl
+*.joblib
+dashboard_version.txt
+
+# Models
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+
+# Streamlit & logs
+streamlit_*.txt
+logs/
+reports/
+notebooks/
+catboost_info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API keys
+.env

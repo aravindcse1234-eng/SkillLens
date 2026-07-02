@@ -1,0 +1,94 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Visualization
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.9.0
+
+# Machine Learning - Gradient Boosting
+xgboost>=2.0.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# NLP & Transformers
+transformers>=4.35.0
+datasets>=2.14.0
+tokenizers>=0.14.0
+sentence-transformers>=2.2.0
+spacy>=3.7.0
+nltk>=3.8.0
+gensim>=4.3.0
+
+# Resume Parsing
+pdfminer.six>=20221105
+pypdf2>=3.0.0
+pypdf>=3.17.0
+python-docx>=1.0.0
+textract>=1.6.5
+
+# Forecasting
+prophet>=1.1.5
+statsmodels>=0.14.0
+pmdarima>=2.0.0
+
+# Explainable AI
+shap>=0.42.0
+lime>=0.2.0
+eli5>=0.13.0
+
+# RAG & Chatbot
+langchain>=0.1.0
+langchain-community>=0.1.0
+langchain-core>=0.1.0
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+sentencepiece>=0.1.99
+accelerate>=0.25.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+pgvector>=0.2.0
+
+# API & Web
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Experiment Tracking
+mlflow>=2.8.0
+optuna>=3.4.0
+hyperopt>=0.2.7
+
+# Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+joblib>=1.3.0
+tqdm>=4.66.0
+loguru>=0.7.0
+click>=8.1.0
+rich>=13.7.0
+
+# Testing & Quality
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.11.0
+flake8>=6.1.0
+isort>=5.12.0
+
+# Deployment
+docker>=6.1.0
+gunicorn>=21.2.0

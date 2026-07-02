@@ -1,0 +1,48 @@
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Visualization
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+wordcloud>=1.9.0
+
+# ML Models (needed for salary prediction + forecasting)
+xgboost>=2.0.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# NLP (needed for resume analysis, skill extraction & AI assistant)
+transformers>=4.35.0
+sentence-transformers>=2.2.0
+spacy>=3.7.0
+nltk>=3.8.0
+
+# Resume Parsing
+pdfminer.six>=20221105
+pypdf2>=3.0.0
+pypdf>=3.17.0
+python-docx>=1.0.0
+
+# Forecasting
+prophet>=1.1.5
+statsmodels>=0.14.0
+pmdarima>=2.0.0
+
+# Explainable AI
+shap>=0.42.0
+
+# Vector Search (for RAG chatbot)
+faiss-cpu>=1.7.4
+
+# API & Web
+streamlit>=1.28.0
+
+# Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+joblib>=1.3.0
+tqdm>=4.66.0
