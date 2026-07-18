@@ -38,3 +38,5 @@ Thumbs.db
 
 # API keys
 .env
+
+MASTER_PROMPT_NEXT.md
